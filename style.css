@@ -91,6 +91,29 @@ p{
     box-shadow: none;
     margin-top: 0.rem;
 }
-.readme :hover{
-    color: rgb(61, 178, 199);
+.readme:hover{
+    color: blue;
+    background-color: chocolate;
+}
+a{
+    border-radius: 10px;
+    font-weight: bold;
+    box-sizing: border-box;
+    background-color:black;
+    margin-left: 100px;
+    padding: 10px;
+    justify-content: left;
+    color:deepskyblue;
+    margin-top: 3px;
+    text-transform: capitalize;
+    border-color: inherit;
+    box-shadow: none;
+    margin-top: 0.rem;
+}
+a:hover{
+    color: yellow;
+    background-color: red;
+}
+.button{
+    display: inline-block;
 }
