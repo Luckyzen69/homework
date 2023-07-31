@@ -22,16 +22,10 @@ body{
 
 }
 img{
-    width: 305px;
-    height: 190px;
+    max-width: 100%;
+
     border-radius: 1rem;
-    padding: 1px;
-    padding-left: 0.5px;
-    padding-right: 1px;
-    margin-right: 10px;
-    justify-content: center;
-    margin: auto;
-    border: 10px;
+
 
 }
 .btns{
